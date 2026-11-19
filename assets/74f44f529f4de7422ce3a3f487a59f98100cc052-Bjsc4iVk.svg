@@ -1,0 +1,21 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="113.642" height="90.3725" viewBox="0 0 113.642 90.3725" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Group 1171279123">
+<rect id="Rectangle 177" y="30.8509" width="12.9877" height="28.1399" rx="6.49383" fill="white"/>
+<rect id="Rectangle 178" x="100.654" y="30.8511" width="12.9877" height="28.1399" rx="6.49383" fill="white"/>
+<g id="Ellipse 23">
+<use xlink:href="#stroke0_1500_1956" fill="white"/>
+<mask id="stroke1_1500_1956" fill="white">
+<use xlink:href="#stroke0_1500_1956"/>
+</mask>
+<path d="M107.149 49.2449C107.149 76.4421 87.1259 90.3725 56.8213 90.3725C29.6241 90.3725 7.57651 81.714 6.49414 49.2449C6.49417 16.7757 28.6814 0 56.8213 0C93.6197 1.09499 107.149 22.0477 107.149 49.2449Z" stroke-width="2.34313" stroke="url(#paint0_linear_1500_1956)" mask="url(#stroke1_1500_1956)"/>
+</g>
+<path id="Ellipse 26" d="M97.466 48.7106C97.466 70.5335 81.0918 81.7112 56.3091 81.7112C34.0677 81.7112 16.0375 74.7637 15.1523 48.7106C15.1524 22.6575 33.2968 9.19678 56.3091 9.19678C86.4024 10.0754 97.466 26.8877 97.466 48.7106Z" fill="#03BAD3"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1500_1956" x1="57.407" y1="54.6289" x2="57.407" y2="-39.6823" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0A2D94"/>
+<stop offset="1" stop-color="#666666" stop-opacity="0"/>
+</linearGradient>
+<path id="stroke0_1500_1956" d="M107.148 49.2449C107.148 76.4421 87.1259 90.3725 56.8213 90.3725C29.6241 90.3725 7.57651 81.714 6.49414 49.2449C6.49417 16.7757 28.6814 0 56.8213 0C93.6197 1.09499 107.148 22.0477 107.148 49.2449Z"/>
+</defs>
+</svg>

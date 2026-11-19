@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="242.825" height="77.4695" viewBox="0 0 242.825 77.4695" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Display / Timer frame / Layout 01">
+<path id="Vector 31" d="M224.809 5.34169H28.6256L13.2387 17.3705V61.6365L28.6256 72.2219H224.809L235.708 61.6365V14.9647L224.809 5.34169Z" fill="#073C78" stroke-width="0.939025" stroke="#073873"/>
+<g id="Group 1171279129">
+<path id="Vector 30" d="M29.814 5.39939H35.4482L31.2226 0.234756H16.6677L0.234756 15.2591V60.3323L14.7896 77.2348H32.6311L35.4482 72.5396H31.2226L20.8933 60.3323V15.2591L29.814 5.39939Z" fill="white" stroke-width="0.469512" stroke="#073873"/>
+<foreignObject x="0.070614" y="4.69507" width="31.2501" height="10.7988"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(1.88px);clip-path:url(#bgblur_0_1500_1927_clip_path);height:100%;width:100%"></div></foreignObject><path id="Vector 37" data-figma-bg-blur-radius="3.7561" d="M24.1808 11.503H4.46132L7.7479 8.68593H26.9979L24.1808 11.503Z" fill="#073C78" stroke-width="0.469512" stroke="#073873"/>
+</g>
+<g id="Group 1171279131">
+<path id="Vector 30_2" d="M213.011 5.39939H207.377L211.602 0.234756H226.157L242.59 15.2591V60.3323L228.035 77.2348H210.194L207.377 72.5396H211.602L221.932 60.3323V15.2591L213.011 5.39939Z" fill="white" stroke-width="0.469512" stroke="#073873"/>
+<foreignObject x="211.504" y="4.69507" width="31.2501" height="10.7988"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(1.88px);clip-path:url(#bgblur_1_1500_1927_clip_path);height:100%;width:100%"></div></foreignObject><path id="Vector 37_2" data-figma-bg-blur-radius="3.7561" d="M218.644 11.503H238.364L235.077 8.68593H215.827L218.644 11.503Z" fill="#073C78" stroke-width="0.469512" stroke="#073873"/>
+</g>
+</g>
+<defs>
+<clipPath id="bgblur_0_1500_1927_clip_path" transform="translate(-0.070614 -4.69507)"><path d="M24.1808 11.503H4.46132L7.7479 8.68593H26.9979L24.1808 11.503Z"/>
+</clipPath><clipPath id="bgblur_1_1500_1927_clip_path" transform="translate(-211.504 -4.69507)"><path d="M218.644 11.503H238.364L235.077 8.68593H215.827L218.644 11.503Z"/>
+</clipPath></defs>
+</svg>
